@@ -7,10 +7,13 @@
   <tr>
     <td width="75%">
       <h1>冯晨</h1>
-      <p><b>年龄：21</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>性别：男</b></p>
-      <p><b>专业技能：java,python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>实习经验：淘宝网店兼职软件工程师</b></p>
+      <p><b>年龄：21</b></p>
+      <p><b>性别：男</b></p>
+      <p><b>专业技能：java,python</b></p>
+      <p><b>实习经验：淘宝网店兼职软件工程师</b></p>
       <p><b>学校：石家庄铁道大学信息科学与技术学院</b></p>
-      <p><b>电话：15614353867</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>邮箱：1779735651@qq.com</b></p>
+      <p><b>电话：15614353867</b></p>
+      <p><b>邮箱：1779735651@qq.com</b></p>
       <p><b>地址：陕西省兴平市</b></p>
     </td>
     <td width="25%">
