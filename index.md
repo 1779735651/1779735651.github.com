@@ -14,7 +14,7 @@
       <p><b>地址：陕西省兴平市</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="images/zhengjianzhao.jpg" width="100%"> 
     </td>
   </tr>
 </table>
