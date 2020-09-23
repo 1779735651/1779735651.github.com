@@ -5,7 +5,7 @@
 
 <table border="0" align="left">
   <tr>
-    <td width="75%">
+    <td width="75%" align="left">
       <h1>冯晨</h1>
       <p><b>年龄：21</b></p>
       <p><b>性别：男</b></p>
